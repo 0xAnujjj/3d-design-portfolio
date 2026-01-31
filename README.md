@@ -24,3 +24,12 @@ A 3D mechanical gripper design with animated demonstrations.
 - **Made using**: <a href="https://www.onshape.com/en/">Onshape</a>
 
 ---
+
+## ⚽ Ball Bounce Animation
+
+<div align="center">
+  <img src = "BasicAnimations/bounceBallGif.gif" alt="Ball Animation in Blender" width="400"/>
+  <p><i>Ball Bouncing Animation in Blender</i></p>
+</div>
+
+---
